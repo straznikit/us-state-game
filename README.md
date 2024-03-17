@@ -21,3 +21,24 @@ Input the names of the states you know one by one into the prompt provided by th
 Watch as the script displays the correctly guessed states on the map of the USA.
 
 Continue guessing and inputting state names until you have identified all the states on the map.
+
+## Dependencies:
+
+Python 3.12
+
+## Getting Started:
+
+1. Clone the repository to your local machine:
+
+```python
+git clone https://github.com/straznikit/us-state-game
+```
+2. Run the script and start playing the USA States Guessing Game to test your knowledge of American geography.
+
+## Contributing:
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
+
+## Acknowledgments:
+
+Special thanks to the creators of the original game concept and the Python community for their valuable insights and support in developing this game script.
