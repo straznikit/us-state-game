@@ -1,5 +1,4 @@
 # USA States Guessing Game in Python
-
 This Python script implements a game where the player has to guess and input the names of all the states in the United States of America. As the player enters the names of the states, they are displayed in their correct location on the map of the USA.
 
 ## Features:
