@@ -13,13 +13,13 @@ This Python script implements a game where the player has to guess and input the
 
 ## Usage:
 
-Run the script to start the game.
+1. Run the script to start the game.
 
-Input the names of the states you know one by one into the prompt provided by the script.
+2. Input the names of the states you know one by one into the prompt provided by the script.
 
-Watch as the script displays the correctly guessed states on the map of the USA.
+3. Watch as the script displays the correctly guessed states on the map of the USA.
 
-Continue guessing and inputting state names until you have identified all the states on the map.
+4. Continue guessing and inputting state names until you have identified all the states on the map.
 
 ## Dependencies:
 
