@@ -22,11 +22,9 @@ This Python script implements a game where the player has to guess and input the
 4. Continue guessing and inputting state names until you have identified all the states on the map.
 
 ## Dependencies:
-
 Python 3.12
 
 ## Getting Started:
-
 1. Clone the repository to your local machine:
 
 ```python
