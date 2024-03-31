@@ -20,7 +20,6 @@ This Python script implements a game where the player has to guess and input the
 3. Watch as the script displays the correctly guessed states on the map of the USA.
 
 4. Continue guessing and inputting state names until you have identified all the states on the map.
-
 ## Dependencies:
 Python 3.12
 
