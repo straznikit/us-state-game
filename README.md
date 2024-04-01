@@ -12,7 +12,6 @@ This Python script implements a game where the player has to guess and input the
 - Scoring System: The game may include a scoring system to track the player's progress and provide incentives for completing the challenge.
 
 ## Usage:
-
 1. Run the script to start the game.
 
 2. Input the names of the states you know one by one into the prompt provided by the script.
