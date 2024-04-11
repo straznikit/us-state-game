@@ -2,7 +2,6 @@
 This Python script implements a game where the player has to guess and input the names of all the states in the United States of America. As the player enters the names of the states, they are displayed in their correct location on the map of the USA.
 
 ## Features:
-
 - Interactive Gameplay: The game provides an interactive interface where the player can input the names of the states they know, and the script will display them on the map in real-time.
 
 - State Recognition: The script recognizes the names of the states entered by the player and displays them accurately on the map, allowing the player to track their progress.
